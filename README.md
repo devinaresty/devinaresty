@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-marquee.vercel.app/api?text=TypeScript%20•%20JavaScript%20•%20NestJS%20•%20Vue.js%20•%20Laravel%20•%20React%20•%20PostgreSQL%20•%20MySQL%20•%20Prisma%20ORM%20•%20Redis%20•%20Docker%20•%20Git%20•%20GitHub%20•%20GitLab%20•%20Swagger%20•%20Google%20Cloud%20•%20TailwindCSS%20•%20Bootstrap%20•%20Postman%20•%20Figma&speed=40&theme=dark"/>
 </p>
 
 ---
