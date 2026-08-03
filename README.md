@@ -76,11 +76,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/devina-resty-52072a406/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/d.vinrtty">
 <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
