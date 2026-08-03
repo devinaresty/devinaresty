@@ -6,48 +6,105 @@
 </p>
 
 <p align="center">
-<img src="https://readme-marquee.vercel.app/api?text=TypeScript%20•%20JavaScript%20•%20NestJS%20•%20Vue.js%20•%20Laravel%20•%20React%20•%20PostgreSQL%20•%20MySQL%20•%20Prisma%20ORM%20•%20Redis%20•%20Docker%20•%20Git%20•%20GitHub%20•%20GitLab%20•%20Swagger%20•%20Google%20Cloud%20•%20TailwindCSS%20•%20Bootstrap%20•%20Postman%20•%20Figma&speed=40&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="60" viewBox="0 0 1800 60">
+<style>
+text{
+font-family:Arial,Helvetica,sans-serif;
+font-size:18px;
+font-weight:600;
+fill:white;
+}
+.badge{
+rx:8;
+ry:8;
+height:38;
+}
+</style>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<defs>
+<linearGradient id="bg" x1="0" x2="1">
+<stop offset="0%" stop-color="#0d1117"/>
+<stop offset="100%" stop-color="#161b22"/>
+</linearGradient>
+</defs>
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<rect width="1800" height="60" fill="url(#bg)"/>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<g>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 0"
+to="-900 0"
+dur="22s"
+repeatCount="indefinite"/>
 
-</p>
+<g transform="translate(20 10)">
+<rect class="badge" width="140" fill="#3178C6"/>
+<text x="15" y="25">🟦 TypeScript</text>
+</g>
+
+<g transform="translate(180 10)">
+<rect class="badge" width="145" fill="#F7DF1E"/>
+<text fill="#000" x="15" y="25">🟨 JavaScript</text>
+</g>
+
+<g transform="translate(345 10)">
+<rect class="badge" width="120" fill="#E0234E"/>
+<text x="15" y="25">🟥 NestJS</text>
+</g>
+
+<g transform="translate(485 10)">
+<rect class="badge" width="115" fill="#42B883"/>
+<text x="15" y="25">🟩 Vue.js</text>
+</g>
+
+<g transform="translate(620 10)">
+<rect class="badge" width="135" fill="#2496ED"/>
+<text x="15" y="25">🐳 Docker</text>
+</g>
+
+<g transform="translate(775 10)">
+<rect class="badge" width="155" fill="#4169E1"/>
+<text x="15" y="25">🐘 PostgreSQL</text>
+</g>
+
+<g transform="translate(950 10)">
+<rect class="badge" width="120" fill="#2D3748"/>
+<text x="15" y="25">⚫ Prisma</text>
+</g>
+
+<g transform="translate(1090 10)">
+<rect class="badge" width="110" fill="#06B6D4"/>
+<text x="15" y="25">💨 Tailwind</text>
+</g>
+
+<g transform="translate(1220 10)">
+<rect class="badge" width="120" fill="#7952B3"/>
+<text x="15" y="25">🟪 Bootstrap</text>
+</g>
+
+<g transform="translate(1360 10)">
+<rect class="badge" width="125" fill="#85EA2D"/>
+<text fill="#000" x="15" y="25">🟢 Swagger</text>
+</g>
+
+<g transform="translate(1505 10)">
+<rect class="badge" width="165" fill="#4285F4"/>
+<text x="15" y="25">☁ Google Cloud</text>
+</g>
+
+</g>
+
+</svg>
 
 ---
 
