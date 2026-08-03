@@ -1,26 +1,33 @@
-# 👋 Hi, I'm Devina Resty
+<h1 align="center">Hi there 👋, I'm Devina Resty</h1>
 
-Fresh Graduate in Software Engineering with a strong interest in **Fullstack Web Development**, especially **Backend Development**. I enjoy building scalable web applications, designing RESTful APIs, and continuously learning modern technologies.
+<p align="center">
+  Fresh Graduate in Software Engineering <br>
+  Passionate about Fullstack Web Development, especially Backend Development.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,vue,postgres,prisma,docker,git,github,gitlab,php,laravel,python,figma,vscode&perline=8" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,nest,nodejs,express,vue,vite,react,laravel,flutter,html,css,tailwind,bootstrap,postgres,mysql,redis,prisma,docker,git,github,gitlab,postman,figma,vscode&perline=7" />
 </p>
 
 ---
 
 ## 🚀 What I Can Do
 
-- Build Fullstack Web Applications
-- Develop RESTful APIs
+- Develop Fullstack Web Applications
+- Build RESTful APIs
 - Design & Manage Databases
 - Authentication & Authorization
 - Third-party API Integration
-- Responsive Web Interfaces
-- Clean & Maintainable Code
+- Responsive User Interfaces
+- Write Clean & Maintainable Code
 
 ---
 
@@ -35,15 +42,34 @@ Fresh Graduate in Software Engineering with a strong interest in **Fullstack Web
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devinaresttye2@gmail.com)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="mailto:devinaresttye2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+</p>
