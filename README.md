@@ -13,9 +13,146 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,nest,nodejs,express,vue,vite,react,laravel,flutter,html,css,tailwind,bootstrap,postgres,mysql,redis,prisma,docker,git,github,gitlab,postman,figma,vscode&perline=7" />
-</p>
+<table>
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=ts" width="22"/> TypeScript
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=php" width="22"/> PHP
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python" width="22"/> Python
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=java" width="22"/> Java
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nest" width="22"/> NestJS
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="22"/> Node.js
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=express" width="22"/> Express.js
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vue" width="22"/> Vue.js
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react" width="22"/> React
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=laravel" width="22"/> Laravel
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=flutter" width="22"/> Flutter
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres" width="22"/> PostgreSQL
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="22"/> MySQL
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=redis" width="22"/> Redis
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=prisma" width="22"/> Prisma ORM
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker" width="22"/> Docker
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git" width="22"/> Git
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=gitlab" width="22"/> GitLab
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postman" width="22"/> Postman
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=figma" width="22"/> Figma
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="22"/> VS Code
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=html" width="22"/> HTML & CSS
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -50,26 +187,18 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:devinaresttye2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
