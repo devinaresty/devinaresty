@@ -6,153 +6,48 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<table>
-<tr>
-<td>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts" width="22"/> TypeScript
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-<td>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-</td>
-<td>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=php" width="22"/> PHP
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=python" width="22"/> Python
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=java" width="22"/> Java
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=nest" width="22"/> NestJS
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="22"/> Node.js
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=express" width="22"/> Express.js
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=vue" width="22"/> Vue.js
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=react" width="22"/> React
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=laravel" width="22"/> Laravel
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=flutter" width="22"/> Flutter
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=postgres" width="22"/> PostgreSQL
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="22"/> MySQL
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=redis" width="22"/> Redis
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=prisma" width="22"/> Prisma ORM
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=docker" width="22"/> Docker
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git" width="22"/> Git
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=gitlab" width="22"/> GitLab
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=postman" width="22"/> Postman
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=figma" width="22"/> Figma
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="22"/> VS Code
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=html" width="22"/> HTML & CSS
-
-</td>
-</tr>
-
-</table>
+</p>
 
 ---
 
@@ -177,28 +72,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:devinaresttye2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
